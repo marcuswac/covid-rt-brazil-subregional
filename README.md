@@ -5,15 +5,15 @@ City level estimates of the time-varying reproduction number of Covid-19 produce
 
 ## Reports per state (Northeast only):
 
-- [Alagoas](https://marcuswac.github.io/covid-rt-brazil-subregional/states/AL/docs/)
-- [Bahia](https://marcuswac.github.io/covid-rt-brazil-subregional/states/BA/docs/)
-- [Ceará](https://marcuswac.github.io/covid-rt-brazil-subregional/states/CE/docs/)
-- [Maranhão](https://marcuswac.github.io/covid-rt-brazil-subregional/states/MA/docs/)
-- [Paraíba](https://marcuswac.github.io/covid-rt-brazil-subregional/states/PB/docs/)
-- [Pernambuco](https://marcuswac.github.io/covid-rt-brazil-subregional/states/PE/docs/)
-- [Piauí](https://marcuswac.github.io/covid-rt-brazil-subregional/states/PI/docs/)
-- [Rio Grande do Norte](https://marcuswac.github.io/covid-rt-brazil-subregional/states/RN/docs/)
-- [Sergipe](https://marcuswac.github.io/covid-rt-brazil-subregional/states/SE/docs/)
+- [Alagoas](https://marcuswac.github.io/covid-rt-brazil-subregional/states/AL/)
+- [Bahia](https://marcuswac.github.io/covid-rt-brazil-subregional/states/BA/)
+- [Ceará](https://marcuswac.github.io/covid-rt-brazil-subregional/states/CE/)
+- [Maranhão](https://marcuswac.github.io/covid-rt-brazil-subregional/states/MA/)
+- [Paraíba](https://marcuswac.github.io/covid-rt-brazil-subregional/states/PB/)
+- [Pernambuco](https://marcuswac.github.io/covid-rt-brazil-subregional/states/PE/)
+- [Piauí](https://marcuswac.github.io/covid-rt-brazil-subregional/states/PI/)
+- [Rio Grande do Norte](https://marcuswac.github.io/covid-rt-brazil-subregional/states/RN/)
+- [Sergipe](https://marcuswac.github.io/covid-rt-brazil-subregional/states/SE/)
 
 ## Data
 
