@@ -3,6 +3,18 @@
 
 City level estimates of the time-varying reproduction number of Covid-19 produced using [EpiNow2](epiforecasts.io/EpiNow2) based on data from [brazil.io](https://brasil.io/home/). Regional estimates for Brazil (along with a national estimate) are available [here](https://epiforecasts.io/covid/posts/national/brazil/). Detail of the method used is given [here](https://epiforecasts.io/covid/methods.html), though the estimates shown here were derived using an approximate approach (direct de-convolution of observed cases) rather than the exact method used on [epiforecasts.io](https://epiforecasts.io/covid) and therefore should be considered indicative. The code and data supporting these estimates is available [here](https://github.com/epiforecasts/covid-rt-brazil-subregional). Estimates are available in a summarised form [here](https://github.com/epiforecasts/covid-rt-brazil-subregional/tree/master/data/rt).
 
+## Reports per state (Northeast only):
+
+- [Alagoas](https://marcuswac.github.io/covid-rt-brazil-subregional/states/AL/docs/)
+- [Bahia](https://marcuswac.github.io/covid-rt-brazil-subregional/states/BA/docs/)
+- [Ceará](https://marcuswac.github.io/covid-rt-brazil-subregional/states/CE/docs/)
+- [Maranhão](https://marcuswac.github.io/covid-rt-brazil-subregional/states/MA/docs/)
+- [Paraíba](https://marcuswac.github.io/covid-rt-brazil-subregional/states/PB/docs/)
+- [Pernambuco](https://marcuswac.github.io/covid-rt-brazil-subregional/states/PE/docs/)
+- [Piauí](https://marcuswac.github.io/covid-rt-brazil-subregional/states/PI/docs/)
+- [Rio Grande do Norte](https://marcuswac.github.io/covid-rt-brazil-subregional/states/RN/docs/)
+- [Sergipe](https://marcuswac.github.io/covid-rt-brazil-subregional/states/SE/docs/)
+
 ## Data
 
 * Rt estimates: `data/rt/<date>/rt.csv`
