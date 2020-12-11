@@ -57,7 +57,7 @@ regional_epinow(reported_cases = cases,
                                     all_regions = FALSE),
                 #logs = "logs/cases"
 		logs = file.path(states_dir, state_filt, "logs"),
-		verbose = TRUE
+		verbose = FALSE 
 )
 
 #regional_epinow(reported_cases = cases, 
