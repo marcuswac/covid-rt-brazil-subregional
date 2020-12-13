@@ -94,7 +94,8 @@ highest_city <- rtData$Cases$obsCasesData %>%
 RtD3::summaryWidget(rtData = rtData,
                     geoData = sf::st_sf(geoData),
                     activeArea = highest_city,
-		    dryRun = TRUE, 
+		    #dryRun = TRUE, 
+		    dryRun = FALSE, 
                     downloadUrl = "https://github.com/epiforecasts/covid-rt-brazil-subregional")
 ```
 
