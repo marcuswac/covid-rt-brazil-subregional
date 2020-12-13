@@ -12,7 +12,7 @@ source(here::here("R", "utils.R"))
 today <- Sys.Date()
 file_name <- "latest"
 #days_with_data <- 30
-days_with_data <- 60
+days_with_data <- 10 
 #min_cases_in_horizon <- 200
 min_cases_in_horizon <- 20 
 time_horizon <- 10 #(weeks)
