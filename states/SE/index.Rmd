@@ -64,7 +64,7 @@ City level estimates of the time-varying reproduction number of Covid-19 produce
 today <- "latest"
 ```
 
-```{r, fig.height = 16, out.width = "100%", message = FALSE, warning = FALSE, eval = FALSE}
+```{r, fig.height = 16, out.width = "100%", message = FALSE, warning = FALSE, eval = TRUE}
 # Load shapefile
 #geoData <- readRDS(here::here("data", "shapefile", "brazil-admin-2.rds"))
 
