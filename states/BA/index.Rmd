@@ -35,8 +35,8 @@ library(dplyr)
   opacity: 1;
 }
 
-div#htmlwidget-c165953e6756d4441830 {
-    height: 720px !important;
+.RtD3 {
+    height: 100% !important;
 }
 
 div#r-container {
