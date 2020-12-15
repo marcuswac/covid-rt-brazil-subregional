@@ -34,6 +34,22 @@ library(dplyr)
 #TOC:hover {
   opacity: 1;
 }
+
+div#htmlwidget-c165953e6756d4441830 {
+    height: 720px !important;
+}
+
+div#r-container {
+    display: none;
+}
+
+div#infection-container {
+    display: none;
+}
+
+div#report-container {
+    display: none;
+}
 </style>
 
 ***
