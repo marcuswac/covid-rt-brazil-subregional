@@ -80,7 +80,8 @@ eval_regions <- data.table::copy(brazil_data)[, .(cum_cases = cumsum(case_inc),
                                                   non_zero = case_inc > 0,
                                                   date = date), by = city_ibge_code]
 eval_regions <- eval_regions[, .(cum_cases = max(cum_cases), non_zero = sum(non_zero)), by = city_ibge_code]
-eval_regions <- eval_regions[non_zero >= days_with_data][cum_cases >= min_cases_in_horizon]
+# no filter
+#eval_regions <- eval_regions[non_zero >= days_with_data][cum_cases >= min_cases_in_horizon]
 brazil_data <- brazil_data[city_ibge_code %in% unique(eval_regions$city_ibge_code)]
 
 # Save data  --------------------------------------------------------------
